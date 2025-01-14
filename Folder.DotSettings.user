@@ -1,0 +1,22 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e92d441_002Dbd67_002D46af_002D9871_002D9382312bb73c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from SingletonTests.cs #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:SingletonTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:FactoryTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:StrategyTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:RepositoryTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:CqrsTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=584f0a56_002D71b6_002D41be_002D9764_002D643ab73d7d25/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="All tests from SingletonTests.cs" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:SingletonTests.cs&lt;/ProjectFile&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a8c45ed9_002Dc25f_002D42bb_002D94fa_002Daf5c69e07cbb/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="All tests from SingletonTests.cs #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;Or&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:SingletonTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:StrategyTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:RepositoryTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:FactoryTests.cs&lt;/ProjectFile&gt;
+    &lt;ProjectFile&gt;E2495687-D0F5-217D-8A81-56CE028ABC09/d:UnitTests/f:CqrsTests.cs&lt;/ProjectFile&gt;
+  &lt;/Or&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
