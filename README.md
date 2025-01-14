@@ -11,56 +11,8 @@ This project showcases the implementation of key **design patterns** in **.NET 8
 ---
 
 ## **📌 Project Structure**  
+![image](https://github.com/user-attachments/assets/cb984f73-753f-4efa-b876-16378d2e2982)
 
-📂 DesignPatternsWebApi
-├── 📂 DesignPatterns
-│ ├── 📂 Singleton
-│ │ ├── SingletonBasic.cs
-│ ├── 📂 Factory
-│ │ ├── IProduct.cs
-│ │ ├── ConcreteProduct.cs
-│ │ ├── ProductFactory.cs
-│ ├── 📂 Repository
-│ │ ├── IRepository.cs
-│ │ ├── UserRepository.cs
-│ ├── 📂 Strategy
-│ │ ├── IDiscountStrategy.cs
-│ │ ├── PercentageDiscount.cs
-│ │ ├── FixedDiscount.cs
-│ │ ├── DiscountContext.cs
-│ ├── 📂 CQRS
-│ │ ├── Commands
-│ │ │ ├── CreateUserCommand.cs
-│ │ ├── Queries
-│ │ │ ├── GetUserQuery.cs
-│ │ ├── Handlers
-│ │ │ ├── CreateUserHandler.cs
-│ │ │ ├── GetUserHandler.cs
-├── 📂 Controllers
-│ ├── SingletonController.cs
-│ ├── FactoryController.cs
-│ ├── RepositoryController.cs
-│ ├── StrategyController.cs
-│ ├── CqrsController.cs
-├── 📂 Services
-│ ├── SingletonService.cs
-│ ├── FactoryService.cs
-│ ├── UserService.cs
-│ ├── StrategyService.cs
-│ ├── CqrsService.cs
-├── 📂 UnitTests
-│ ├── SingletonTests.cs
-│ ├── FactoryTests.cs
-│ ├── RepositoryTests.cs
-│ ├── StrategyTests.cs
-│ ├── CqrsTests.cs
-├── 📄 README.md
-├── DesignPatternsWebApi.csproj
-├── Program.cs
-├── appsettings.json
-
-
----
 
 ## **📌 How to Run the Project?**  
 
